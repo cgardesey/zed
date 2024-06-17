@@ -41,7 +41,7 @@ Before you get started, make sure you have the following tools installed:
     - **Route: POST /book/create**
 
    
-4**destroy(PyzBook $pyzBook)**
+4. **destroy(PyzBook $pyzBook)**
     - Deletes a specified book from the database.
     - **Route: DELETE /book/id**
 
