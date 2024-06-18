@@ -1,4 +1,4 @@
-# Laravel GSM Call Web Project CRUD Functionality for pyz_book Table
+# CRUD Functionality for pyz_book Table
 ## Table of Contents
 
 - [Introduction](#introduction)
