@@ -3,9 +3,8 @@
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Methods Overview](#features)
+- [Methods Overview](#methods-overview)
 - [Example Response](#example-response)
-- [Features](#features)
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
 - [License](#license)
