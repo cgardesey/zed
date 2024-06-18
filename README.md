@@ -1,4 +1,4 @@
-# Laravel GSM Call Web Project CRUD Functionality for pyz_book table
+# Laravel GSM Call Web Project CRUD Functionality for pyz_book Table
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
-- [Deployment](#deployment)
 - [License](#license)
 
 
@@ -114,10 +113,6 @@ The application follows a standard Laravel Development Workflow:
 -  To run artisan commands: `./vendor/bin/sail artisan your-command`
 -  To access the application's shell: `./vendor/bin/sail shell`
 
-
-## Deployment
-
-For deployment, make sure to adjust your environment settings in the .env file according to your production environment. You can use tools like Forge or deploy directly to a server.
 
 ## License
 
