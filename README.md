@@ -69,7 +69,7 @@ Before you get started, make sure you have the following tools installed:
      git clone https://github.com/cgardesey/zed.git
 - Navigate to the project directory:
    ```bash
-      cd applications
+      cd zed
 - Create a .env file:
    ```bash
       cp .env.example .env
