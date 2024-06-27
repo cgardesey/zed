@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This is a laravel application that demonstrates CRUD with operations on pyz_book
+This is a laravel application that demonstrates CRUD with operations on pyz_book table
 
 
 ## Prerequisites
