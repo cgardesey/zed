@@ -46,7 +46,7 @@ Before you get started, make sure you have the following tools installed:
 
 ## Example Response
 
-- Successful execution of all requests returns an of books:
+- Successful execution of all requests returns an array of books:
     - Example Response:
       ```bash
       {
