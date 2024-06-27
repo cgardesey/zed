@@ -24,14 +24,14 @@ Before you get started, make sure you have the following tools installed:
 
 ## Methods Overview
 
-1. **index**
+1. **index()**
    - Fetches and returns a list of all books.
    - **Route: GET /**
 
 
 2. **store(Request $request)**
-    - Returns the form for creating a new book.
-    - **Route: GET /book/create**
+    - Creates a new book.
+    - **Route: POST /book/create**
 
    
 3. **update(Request $request, PyzBook $pyzBook)**
